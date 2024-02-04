@@ -1,0 +1,59 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.iconbox{
+    height:10px;
+    width: 15px;
+    background-color: orange;
+    padding:5px;
+    color: white;
+    border-radius: 5px;
+}
+.iconbox1 a{
+text-decoration: none;
+color:white;
+font-weight: 700;
+}
+.iconbox1{
+    height:10px;
+    width:40px;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+}
+.headline{
+    background-color: rgba(220, 220, 220, 0.534);
+    padding: 20px;
+}
+.dropdown-menu{
+    border:1px solid gainsboro;
+    border-radius: 0px;
+}
+.navbar{
+    background-color:orange;
+    
+}
+.nav-link{
+    font-size:19px;
+    color:white;
+    font-weight: 600;
+    padding: 15px;
+    
+
+}
+.nav-link:hover{
+    background-color: white;
+    transition: 0.8s ease;
+
+}
+.card-body1{
+    padding: 45px;
+}
+.card-title{
+    font-size:20px;
+
+}
+.card{
+    border-radius: 0px;
+    
+}
